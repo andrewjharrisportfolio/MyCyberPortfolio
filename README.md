@@ -11,16 +11,13 @@ Hi there! 👋 I'm Andrew, an IT professional with a passion for technology and 
 My goal is to leverage my strong troubleshooting skills, knowledge of network security, and experience in technical support to contribute to an organization’s cybersecurity efforts. I am committed to continuous learning and growth, and I am excited to bring my passion for security and problem-solving to a dynamic, collaborative team.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory Security Assessment With Splunk          | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Remediation With Nessus | <a href="https://google.com">Detection Lab</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -28,8 +25,7 @@ My goal is to leverage my strong troubleshooting skills, knowledge of network se
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  
 </div>
 
 ### Endpoint
@@ -60,9 +56,7 @@ My goal is to leverage my strong troubleshooting skills, knowledge of network se
 
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
 
 ## Experience  
 
