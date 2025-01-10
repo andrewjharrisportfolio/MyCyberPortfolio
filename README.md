@@ -16,7 +16,7 @@ My goal is to leverage my strong troubleshooting skills, knowledge of network se
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Security Assessment With Splunk          | <a href="https://github.com/andrewjharrisportfolio/-Active-Directory-Security-Assessment-with-Splunk-Integration/tree/main"> AD Lab</a>|
-| Vulnerability Remediation With Nessus | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Remediation With Nessus | <a href="https://github.com/andrewjharrisportfolio/Vulnerability-Remediation-With-Nessus/tree/main">Remediation With Nessus</a>|
 
 
 ## Tools
