@@ -54,6 +54,7 @@ My goal is to leverage my strong troubleshooting skills, knowledge of network se
 
 [View Certification on Credly](https://www.credly.com/badges/d6f76893-f25e-46e5-b380-3d285ee6d73b)
 
+[![AZ-500 - Azure Security Engineer](https://img.shields.io/badge/AZ--500-Azure_Security_Engineer-2ea44f)](https://learn.microsoft.com/api/credentials/share/en-us/AndrewHarris-1272/19DF8BF95AD43DD7?sharingId=C16A570FF06800C4)
 
 
 
