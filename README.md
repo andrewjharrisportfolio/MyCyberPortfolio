@@ -10,6 +10,11 @@ Hi there! 👋 I'm Andrew, an IT professional with a passion for technology and 
 
 My goal is to leverage my strong troubleshooting skills, knowledge of network security, and experience in technical support to contribute to an organization’s cybersecurity efforts. I am committed to continuous learning and growth, and I am excited to bring my passion for security and problem-solving to a dynamic, collaborative team.
 
+# Learning Reports
+[![Weekly Learning Reports - SANS](https://img.shields.io/badge/Weekly_Learning_Reports-SANS-2ea44f)](https://github.com/andrewjharrisportfolio/Weekly-Learning-Reports.git)
+
+
+
 ## Skills
 
 
