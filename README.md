@@ -23,7 +23,7 @@ My goal is to leverage my strong troubleshooting skills, knowledge of network se
 | Active Directory Security Assessment With Splunk          | <a href="https://github.com/andrewjharrisportfolio/-Active-Directory-Security-Assessment-with-Splunk-Integration/tree/main"> AD Lab</a>|
 | Vulnerability Remediation With Nessus | <a href="https://github.com/andrewjharrisportfolio/Vulnerability-Remediation-With-Nessus/tree/main">Remediation With Nessus</a>|
 | Pfsense Firewall Configuration | <a href="https://github.com/andrewjharrisportfolio/pfSense-Firewall-VM-Lab">Pfsense Firewall Configuration</a>|
-
+| Threaded-Port-Scanner-in-Python | <a href="https://github.com/andrewjharrisportfolio/Threaded-Port-Scanner-in-Python">Threaded Port Scanner in Python</a>|
 ## Tools
 
 
