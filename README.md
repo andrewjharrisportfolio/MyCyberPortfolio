@@ -3,15 +3,18 @@
 
 
 
-Hi there! 👋 I'm Andrew, an IT professional with a passion for technology and problem-solving. Certified in CompTIA A+ and CompTIA Security+, I specialize in technical support, network security, and troubleshooting. I'm excited to transition into a SOC Tier 1 Analyst role and contribute to the cybersecurity world. Always eager to learn new things and collaborate, I'm here to grow and share knowledge along the way. Let's connect and build something great together!
+Aspiring SOC Analyst with 6 years of IT support and customer support experience and a growing portfolio of hands-on cybersecurity skills, including log analysis, vulnerability remediation, and incident triage. Certified in GFACT, CompTIA Security+, Microsoft AZ-500, GIAC GSEC and currently pursuing the GCIH to deepen my defensive operations expertise.
 
+I’ve worked directly in high-pressure healthcare environments supporting critical systems, triaging outages, verifying user access under HIPAA constraints, and escalating security-related tickets using ServiceNow. Through lab work and self-guided projects, I’ve used tools like Splunk to detect brute-force attacks, Nessus to remediate real vulnerabilities, and pfSense/Duo Security to enforce multi-layered access controls.
+
+My focus now is fully on transitioning into a security operations role where I can contribute to threat detection, alert triage, and incident response while continuing to grow into threat hunting and IR responsibilities over time. I bring a balance of technical precision, calm under pressure, and a self-driven approach to continuous improvement.
+
+Let’s connect if you're building a security team, hiring for a Tier 1 SOC role, or looking for a reliable candidate who’s ready to contribute from day one and grow quickly.
 ## Objective
 
 
 My goal is to leverage my strong troubleshooting skills, knowledge of network security, and experience in technical support to contribute to an organization’s cybersecurity efforts. I am committed to continuous learning and growth, and I am excited to bring my passion for security and problem-solving to a dynamic, collaborative team.
 
-# Learning Reports
-[![Weekly Learning Reports - SANS](https://img.shields.io/badge/Weekly_Learning_Reports-SANS-2ea44f)](https://github.com/andrewjharrisportfolio/Weekly-Learning-Reports.git)
 
 
 
