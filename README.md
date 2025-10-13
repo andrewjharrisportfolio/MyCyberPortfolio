@@ -17,7 +17,7 @@ I bring hands-on experience in SIEM monitoring, vulnerability assessment, and in
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Security Assessment With Splunk          | <a href="https://github.com/andrewjharrisportfolio/-Active-Directory-Security-Assessment-with-Splunk-Integration/tree/main"> AD Lab</a>|
+| Active Directory Security Assessment With Splunk          | <a href="https://github.com/andrewjharrisportfolio/-Active-Directory-Security-Assessment-with-Splunk-Integration/tree/main"> Active Directory Security Assessment With Splunk</a>|
 | Vulnerability Remediation With Nessus | <a href="https://github.com/andrewjharrisportfolio/Vulnerability-Remediation-With-Nessus/tree/main">Remediation With Nessus</a>|
 | RAT-Detection-and-Remediation-NetSupport-Incident | <a href="https://github.com/andrewjharrisportfolio/RAT-Detection-and-Remediation-NetSupport-Incident/blob/main/README.md">RAT-Detection-and-Remediation-NetSupport-Incident</a>|
 | Threaded-Port-Scanner-in-Python | <a href="https://github.com/andrewjharrisportfolio/Threaded-Port-Scanner-in-Python">Threaded Port Scanner in Python</a>|
