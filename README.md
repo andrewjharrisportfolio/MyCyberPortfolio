@@ -21,7 +21,7 @@ I bring hands-on experience in SIEM monitoring, vulnerability assessment, and in
 | Vulnerability Remediation With Nessus | <a href="https://github.com/andrewjharrisportfolio/Vulnerability-Remediation-With-Nessus/tree/main">Remediation With Nessus</a>|
 | Pfsense Firewall Configuration | <a href="https://github.com/andrewjharrisportfolio/pfSense-Firewall-VM-Lab">Pfsense Firewall Configuration</a>|
 | Threaded-Port-Scanner-in-Python | <a href="https://github.com/andrewjharrisportfolio/Threaded-Port-Scanner-in-Python">Threaded Port Scanner in Python</a>|
-| Labs Continued | <a href="https://github.com/andrewjharrisportfolio/Labs-Continued.git">More</a>|
+| Labs Continued | <a href="https://github.com/andrewjharrisportfolio/Labs-Continued/blob/main/README.md">More</a>|
 
 
 ## Tools
