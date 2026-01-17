@@ -17,6 +17,7 @@ I bring hands-on experience in SIEM monitoring, vulnerability assessment, and in
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| PsExec-Hunt-Lab-Cyberdefenders | <a href="https://github.com/andrewjharrisportfolio/PsExec-Hunt-Lab-Cyberdefenders-/blob/main/README.md">PsExec-Hunt-Lab-Cyberdefenders</a>|
 | Active Directory Security Assessment With Splunk          | <a href="https://github.com/andrewjharrisportfolio/-Active-Directory-Security-Assessment-with-Splunk-Integration/tree/main"> Active Directory Security Assessment With Splunk</a>|
 | Vulnerability Remediation With Nessus | <a href="https://github.com/andrewjharrisportfolio/Vulnerability-Remediation-With-Nessus/tree/main">Remediation With Nessus</a>|
 | RAT-Detection-and-Remediation-NetSupport-Incident | <a href="https://github.com/andrewjharrisportfolio/RAT-Detection-and-Remediation-NetSupport-Incident/blob/main/README.md">RAT-Detection-and-Remediation-NetSupport-Incident</a>|
