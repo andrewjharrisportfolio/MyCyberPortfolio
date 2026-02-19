@@ -2,7 +2,31 @@
 <a href="https://linkedin.com/in/andrewjharris8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Results-driven IT professional with CompTIA A+, Security+, AZ-500, GIAC GFACT, GSEC, and GCIH certifications. Two years of technical support experience in enterprise healthcare environments with hands-on skills in Windows administration, ticket triage, and incident response. Demonstrated proficiency in SIEM analysis (Splunk), vulnerability assessment (Nessus), and log analysis through SANS training, home labs, and platforms such as Let’s Defend and TryHackMe. Currently focused on Blue Team operations, malware detection, and SOC analysis workflows to transition into a full-time cybersecurity analyst role.
+GIAC-certified security professional with hands-on experience in security monitoring, 
+incident triage, and threat detection. Currently supporting enterprise healthcare 
+environments while managing 150+ monthly incidents through ServiceNow. 
+Proven expertise with Splunk SIEM (reduced false positives by 60%), log analysis, 
+malware remediation, and incident response.
+
+TECHNICAL SKILLS:
+- SIEM: Splunk (detection rules, alert triage, log correlation)
+- Security Tools: Wireshark, Zeek, Nmap, Nessus, PowerShell
+- Incident Response: Malware analysis, threat hunting, forensic investigation
+- Frameworks: MITRE ATT&CK, NIST Cybersecurity Framework
+- Systems: Windows, Linux, Active Directory, ServiceNow
+
+CERTIFICATIONS:
+- GIAC GCIH – Certified Incident Handler
+- GIAC GSEC – Security Essentials 
+- GIAC GFACT – Foundational Cybersecurity Technologies
+- CompTIA Security+
+- Microsoft AZ-500 – Azure Security Technologies
+
+Currently seeking Security Operations Center (SOC) Analyst positions where I can 
+apply my incident response training and security monitoring expertise to protect 
+critical infrastructure.
+
+📧 Open to opportunities
 
 ## Objective
 
